@@ -8,4 +8,6 @@ GPX files can be imported into apps such as Google Earth, Garmin Basecamp, Gaia,
 
 Limited to 10,000 locations
 
+Uses native iOS sharing framework
+
 Get the complete traveled app for iPhone/iPad at www.itraveled.app
