@@ -1,5 +1,8 @@
 # gpx-export
-Export geographic locations to **GPX file** and share via email, text, etc.
+
+Convert a list of geographic locations to **GPX file** format
+
+Export and share newly creaated **GPX file** via email, text, etc.
 
 GPX files can be imported into apps such as Google Earth, Garmin Basecamp, Gaia, etc.
 
