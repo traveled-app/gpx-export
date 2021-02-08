@@ -2,9 +2,9 @@
 
 Convert a list of geographic locations to **GPX file** format.
 
-Export and share newly created **GPX file** via email, text, etc.
+Export and share **GPX file** via email, text, etc.
 
-GPX files can be imported into apps such as Google Earth, Garmin Basecamp, Gaia, etc.
+After **GPX file** export, the user may them import into apps such as Google Earth, Garmin Basecamp, Gaia, etc.
 
 Limited to 10,000 locations.
 
